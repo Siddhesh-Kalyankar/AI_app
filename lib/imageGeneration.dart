@@ -113,7 +113,7 @@ class _ImageGenerationState extends State<ImageGeneration> {
               ElevatedButton(
                 onPressed: generateImage,
                 style: ElevatedButton.styleFrom(
-                  backgroundColor: Colors.deepPurple, // Button color
+                  backgroundColor: Colors.blue, // Button color
                   padding: const EdgeInsets.symmetric(
                     horizontal: 24,
                     vertical: 12,
